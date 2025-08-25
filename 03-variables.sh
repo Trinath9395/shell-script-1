@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSION1=DEV
+PERSION1=Dev
 PERSION2=Stage
 
 echo "$PERSION1:: Hi $PERSION2"
